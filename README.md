@@ -1,2 +1,2 @@
-# Education-event-scheduler
-internship project on education event scheduler
+# Event-Scheduler
+It is an event scheduler for colleges and individual entitles to host events.
